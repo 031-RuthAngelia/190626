@@ -1,0 +1,6 @@
+{
+  "name": "AI Design Studio",
+  "description": "Ubah satu foto menjadi poster promosi, mockup kaos/mug, banner web, bingkai twibbon, kolase estetik, atau foto formal rapi berjas secara instan dengan kecerdasan buatan Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
